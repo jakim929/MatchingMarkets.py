@@ -9,3 +9,5 @@ Running our code will output analytics about the exchange (percent of completed 
    python3   sandbox.py <mechanism> <num _of_agents> 
  
  Replace <mechanism> with one of the following {ttc, settle, combo, race} and replace <num_of_agents> with an integer that represents the number of agents you want to participate in the exchange. Each agent places a single order. 
+
+Write up: https://www.dropbox.com/s/0i5ggkt4bq09o89/Crypto%20Exchange%20Network%20Fee%20Reduction%20Through%20TTC.pdf?dl=0
